@@ -17,6 +17,5 @@ While GetKeyState("F10","p")
 		j-=0.1
 	}
 	Sleep, %SleepAmount%
-	MsgBox, %i%, %j%
 }
 return
