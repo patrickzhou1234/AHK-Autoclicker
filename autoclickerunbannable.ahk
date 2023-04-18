@@ -19,3 +19,8 @@ While GetKeyState("F10","p")
 	Sleep, %SleepAmount%
 }
 return
+
+F10 Up::
+i := 5.1
+j := 1.1
+Return
